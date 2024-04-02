@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MovieMania</string>
+    <string name="view_details">View Details</string>
 </resources>
